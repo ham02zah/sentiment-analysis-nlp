@@ -17,3 +17,8 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 
 ## Tools
 Python, Scikit-learn, Google Colab
+
+## Visualizations
+- Sentiment Distribution
+- Confusion Matrix
+- Most Influential Words
